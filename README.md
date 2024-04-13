@@ -1,4 +1,4 @@
-# QNA-over-web-Article
+# QNA over web Articles
 This repository contains a proof-of-concept project developed for a gig on [UPWORK.com](https://www.upwork.com/). The primary objective of this project is to demonstrate the creation of a central vector database of articles, facilitating the seamless updating of new articles as needed. Additionally, the project aims to enable conversational question-and-answer (QnA) interactions leveraging the RAG (Retriever, Answerer, Generator) functionality using the OpenAI API and embeddings.
 <br><br>
 ## Key Features:
